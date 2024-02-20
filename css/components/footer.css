@@ -1,0 +1,14 @@
+.footer {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgba(104, 104, 104, 0.582);
+  border-top: 1px solid lightgray;
+  padding: 80px 16px;
+  height: 400px;
+}
+
+.footer ul {
+  margin: 8px;
+  list-style-type: none;
+  font-size: 2em;
+}
